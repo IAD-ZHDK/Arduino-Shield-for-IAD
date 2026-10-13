@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ZHdK_UNO_SHIELD-eagle-import") (type "KiCad") (uri "${KIPRJMOD}/ZHdK_UNO_SHIELD-eagle-import.kicad_sym") (options "") (descr ""))
+)
